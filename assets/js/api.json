@@ -101,7 +101,7 @@
         "2 Diamantes",
         "1 Libro"
       ],
-      "imagen": "assets/img/objeto/mesa_encantamientos.png",
+      "imagen": "https://i.postimg.cc/3rnK747f/mesa-encantamientos.png",
       "crafteo": "assets/img/crafteos/mesa_encantamientos.png",
       "descripcion": "Permite a los jugadores encantar herramientas, armas y armaduras."
     },
